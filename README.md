@@ -3,6 +3,8 @@ PalMap
 
 A javascript library to get Palestine back on Google Maps. Licensed under Creative Commons Attribution-ShareAlike 4.0 ([license details]).
 
+[![PalMap Example](https://raw.githubusercontent.com/MahmoudAdly/palmap/master/img/example.png)](http://thaghra.com/palmap/)
+
 Installation
 --------------
 1- Make sure you get these files and add them in similar directories.
@@ -39,5 +41,7 @@ Example
   google.maps.event.addDomListener(window, 'load', initialize);
 </script>
 ```
+[View live example]
 
 [license details]: http://creativecommons.org/licenses/by-sa/4.0/
+[View live example]: http://thaghra.com/palmap/
