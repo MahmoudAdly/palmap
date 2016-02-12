@@ -3,7 +3,7 @@
 // | PalMap 0.1 - JavaScript Google Maps Library                        | \\
 // |____________________________________________________________________| \\
 // |                                                                    | \\
-// | Copyright 2014 Mahmoud Adly Ezzat (http://thaghra.com)             | \\
+// | Copyright Mahmoud Adly Ezzat (http://thaghry.com)             | \\
 // |____________________________________________________________________| \\
 // |                                                                    | \\
 // | Licensed under Creative Commons Attribution-ShareAlike 4.0         | \\
